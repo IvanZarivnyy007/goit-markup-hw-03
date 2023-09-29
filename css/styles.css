@@ -148,6 +148,17 @@ letter-spacing: 0.04em;
 }
 .button:hover, .button:focus{
     background-color: #404bbf; 
+
+}
+
+.section-description{
+    padding: 120px 0 ;
+
+}
+
+.hidden{
+    display: none;
+
 }
 .description-title{
     color: #2E2F42;
@@ -233,7 +244,7 @@ letter-spacing: 0.02em;
 }
 .footer{
     background-color:#2E2F42;
-    display: inline-block;
+    
 }
 .nav-menu-logo-footer{
     color: #4d5ae5;

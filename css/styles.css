@@ -47,8 +47,10 @@ ul{
 
 .nav-menu-list{
     display: flex;
-    gap: 40px
-    padding: 24px 0;
+    gap: 40px;
+    margin-right: 40px;
+    margin-right: 0;
+    
 }
 
 .nav-menu-logo {
@@ -63,6 +65,8 @@ ul{
 }
 .nav-menu-span{
     color: #2E2F42;
+    margin-right: 76px
+    
     
 
 }

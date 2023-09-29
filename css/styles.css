@@ -63,11 +63,12 @@ ul{
 }
 .nav-menu-span{
     color: #2E2F42;
-    margin-right: 76px;
+    
 
 }
 .nav-menu-logo:hover,.nav-menu-logo:focus {
 color: #404BBF;
+margin-right: 76px;
 } 
 .nav-menu-item {
     color: #2E2F42;
@@ -90,6 +91,8 @@ color: #404BBF;
 .list-address{
     display: flex;
     gap: 40px;
+    margin-right: 40px;
+    margin-right: 0;
 }
 
 .contacts-item {

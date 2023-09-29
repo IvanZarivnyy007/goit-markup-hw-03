@@ -180,11 +180,32 @@ min-width: 169px;
 
 /* =================================SECTION=2============================================*/
 
+
+.section-main{
+
+
+}
 .section-description{
     padding: 120px 0 ;
 
 }
 
+.section-two{
+
+
+}
+
+.hidden{
+visually-hidden
+
+
+}
+
+.description-list{
+    display: flex;
+    gap: 24px; 
+
+}
 
 .description-title{
     color: #2E2F42;

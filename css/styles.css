@@ -34,7 +34,10 @@ ul{
     padding: 0 15px 0 15px;
     display: flex;
     }
-    /* =================================header============================================*/
+
+
+
+/* =================================header============================================*/
     
     .header{
     border-bottom: 1px solid #e7e9fc
@@ -117,9 +120,16 @@ text-decoration: none;
 
 
 /* =================================SECTION=1============================================*/
+
+.container-section-one{
+    padding: 188px 0;
+
+}
+
+
 .section-main {
     background-color: #2E2F42;
-    padding: 188px 0;
+    
 }
 
 .main-title{

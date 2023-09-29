@@ -21,6 +21,36 @@ ul{
     list-style:none;
 }
 
+
+.img {
+    display: block 
+    
+    }
+    
+    .container{
+    width: 1158px;
+    margin: 0;
+    padding: 0 15px 0 15px;
+    display: flex;
+    }
+    
+    .header{
+        border-bottom: 1px solid #e7e9fc
+    }
+    
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+}
+
+
+.nav-menu-list{
+    display: flex;
+    gap: 40px
+    
+}
+
 .nav-menu-logo {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
@@ -33,6 +63,8 @@ ul{
 }
 .nav-menu-span{
     color: #2E2F42;
+    margin-right: 76px
+
 }
 .nav-menu-logo:hover,.nav-menu-logo:focus {
 color: #404BBF;
@@ -197,5 +229,9 @@ font-weight: 400;
 line-height:1.5;
 letter-spacing: 0.02em;
 }
+
+
+
+
 
 /* ================================================================*/

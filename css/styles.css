@@ -241,9 +241,13 @@ letter-spacing: 0.02em;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+
 }
 .lower-section{
     background-color: #2E2F42;
+    padding: 100px 0;
+    display: inline-block;
+    margin-bottom: 16px;
 
 }
 .lower-logo-span{

@@ -306,6 +306,7 @@ letter-spacing: 0.02em;
 .portfolio{
     background-color: #FFF;
     padding-top: 120px;
+    padding-bottom: 120px; 
 }
 .portfolio-title{
     color: #2E2F42;
@@ -325,8 +326,14 @@ margin-bottom: 72px;
     column-gap: 24px;
     row-gap: 48px;
 
+}
+
+.list-info{
+    width: calc((100% - 48px) / 3);
 
 }
+
+
 .portfolio-subtitle{
     color: #2E2F42;
     font-family: Roboto;

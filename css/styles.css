@@ -11,10 +11,7 @@ ul{
     margin: 0;
 }
 
-li{
-    list-style-type: none;
 
-}
 
 a {
     text-decoration: none;
@@ -364,10 +361,11 @@ margin-bottom: 72px;
 }
 
 .portfolio-list li:first-child {
-    width: calc((100% - 48px) / 3);
+
 }
 
 .list-info {
+width: calc((100% - 48px) / 3);
 }
 
 .list-products{

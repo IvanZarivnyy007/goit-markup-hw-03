@@ -92,6 +92,8 @@ margin-right: 76px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
+    padding: 24px 0;
+    padding-top: 24px; 
 }
 .nav-menu-item:hover,.nav-menu-item:focus {
     color: #404bbf;

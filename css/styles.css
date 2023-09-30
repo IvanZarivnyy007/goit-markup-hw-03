@@ -237,6 +237,7 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
+margin-bottom: 8px;
 
 }
 .description-text{
@@ -357,7 +358,7 @@ margin-bottom: 72px;
 
 }
 
-.list-info{
+.list-info {
     width: calc((100% - 48px) / 3);
 
 }
@@ -366,7 +367,7 @@ margin-bottom: 72px;
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
+    
 
 }
 
@@ -379,6 +380,7 @@ margin-bottom: 72px;
     font-weight: 500;
     line-height:1.2;
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
 }
 .portfolio-text{
     color: #434455;

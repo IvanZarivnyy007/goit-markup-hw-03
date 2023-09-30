@@ -2,7 +2,7 @@ body {
     font-family:"Roboto", sans-serif;
     color: #434455;
 background-color: #FFF;
-letter-spacing: 0.02em
+letter-spacing: 0.02em;
 }
 
 ul{
@@ -28,8 +28,7 @@ margin-bottom:0;
 
 .img {
     display: block 
-    max-width: 100%;
-    height: auto;
+    
     
     }
     
@@ -46,6 +45,7 @@ margin-bottom:0;
     
     .header{
     border-bottom: 1px solid #e7e9fc
+    
     }
     
 
@@ -72,6 +72,7 @@ margin-bottom:0;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
+    margin-right: 76px;
 }
 .nav-menu-span{
     color: #2E2F42;

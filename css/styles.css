@@ -358,8 +358,11 @@ margin-bottom: 72px;
 
 }
 
+.portfolio-list li:first-child {
+    width: calc((100% - 48px) / 3);
+}
+
 .list-info {
-width: calc((100% - 48px) / 3);
 }
 
 .list-products{

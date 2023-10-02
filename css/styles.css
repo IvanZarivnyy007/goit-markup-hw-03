@@ -49,6 +49,12 @@ margin-bottom:0;
     border-bottom: 1px solid #e7e9fc
     
     }
+
+.header-container{
+display: flex;
+align-items: center;
+
+}
     
 
 .nav-menu{
@@ -78,6 +84,7 @@ margin-bottom:0;
 }
 .nav-menu-span{
     color: #2E2F42;
+    font-weight: 700;
    
     
     
@@ -90,6 +97,7 @@ margin-right: 76px;
 .nav-menu-item {
     color: #2E2F42;
     font-size: 16px;
+    display: block;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -104,7 +112,7 @@ margin-right: 76px;
 
 .contacts {
     font-style: normal;
-    padding: 24px 0;
+    margin-left: auto;
 }
 
 .list-address{
@@ -152,7 +160,11 @@ font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
 max-width: 496px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 48px;
 }
+
 .button{
 background-color: #4D5AE5;
 cursor: pointer;
@@ -166,6 +178,8 @@ min-width: 169px;
 height: 56px;
 border: none;
 border-radius: 4px;
+display: block;
+margin: 0 auto;
 
 }
 
@@ -229,7 +243,7 @@ border-radius: 4px;
 
 .list-item{
     width: calc((100% - 72px) / 4);
-    margin-bottom: 8px;
+   
 
 }
 .description-title{
@@ -358,7 +372,7 @@ margin-bottom: 72px;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    width: calc((100% - 48px) / 3);
+
 }
 
 .team-list{
@@ -426,10 +440,7 @@ letter-spacing: 0.02em;
 
 }
 
-.footer-con{
-    display: inline-block;
 
-}
 
 .lower-logo-span{
     color: #f4f4fd;
@@ -441,6 +452,7 @@ font-size: 16px;
 font-weight: 400;
 line-height:1.5;
 letter-spacing: 0.02em;
+width: 264px;
 }
 
 

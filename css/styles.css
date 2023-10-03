@@ -422,6 +422,7 @@ letter-spacing: 0.02em;
     
 }
 .nav-menu-logo-footer{
+    display: inline-block;
     color: #4d5ae5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -430,7 +431,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 16px;
-    display: inline-block;
+
 
 }
 .lower-section{
